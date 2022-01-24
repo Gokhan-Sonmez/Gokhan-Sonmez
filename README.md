@@ -3,7 +3,13 @@
 <!--
 **gohenka/gohenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/g%C3%B6khan-s%C3%B6nmez-1abaa423/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:gohenka@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=gohenka&countColor=%237B1E7A" /></a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
