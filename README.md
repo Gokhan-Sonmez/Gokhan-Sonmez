@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohenka&hide=python&layout=compact&show_icons=true&theme=light">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokhan-Sonmez&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
-  <a href="https://github.com/gohenka"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gohenka&show_icons=true" /></a>
+  <a href="https://github.com/Gokhan-Sonmez"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokhan-Sonmez&show_icons=true" /></a>
   
   ## Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
