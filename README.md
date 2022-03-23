@@ -3,7 +3,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/g%C3%B6khan-s%C3%B6nmez-1abaa423/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:gohenka@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
-  <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=gohenka&countColor=%237B1E7A" /></a>
+  <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gokhan-Sonmez&countColor=%237B1E7A" /></a>
 </p>
 
 <p>
